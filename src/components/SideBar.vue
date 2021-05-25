@@ -3,7 +3,7 @@
         <nav>
             <h2 class="text-xs font-semibold text-gray-600 uppercase tracking-wider">Mailboxes</h2>
             <div class="mt-3">
-                <a href="" class="mt-2 -mx-3 px-3 py-1 flex items-center justify-between text-sm font-medium bg-gray-200 rounded-lg">
+                <a href="" class="mt-2 -mx-3 px-3 py-2 flex items-center justify-between text-sm font-medium bg-gray-200 rounded-lg">
                 <span class="inline-flex">
                     <svg class="h-5 w-5 stroke-current text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 13V6a2 2 0 00-2-2H6a2 2 0 00-2 2v7m16 0v5a2 2 0 01-2 2H6a2 2 0 01-2-2v-5m16 0h-2.586a1 1 0 00-.707.293l-2.414 2.414a1 1 0 01-.707.293h-3.172a1 1 0 01-.707-.293l-2.414-2.414A1 1 0 006.586 13H4"></path>
