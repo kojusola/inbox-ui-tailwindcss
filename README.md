@@ -1,4 +1,4 @@
-# tailwind-vue-template
+# Inbox UI
 
 ## Project setup
 ```
