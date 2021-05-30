@@ -14,7 +14,7 @@
                     </svg>
                 </button>
             </div>
-            <div class=" flex-1 overflow-y-auto">
+            <div class=" flex-1 overflow-y-auto scrollbar-thin scrollbar-thumb-rounded scrollbar-thumb-gray-400 scrollbar-track-gray-100">
                 <a href="#" class="block px-6 pt-3 pb-4 bg-white border-t">
                     <div class="flex justify-between">
                         <span class="text-sm font-semibold text-gray-900">
@@ -228,7 +228,7 @@
                     </div>
                 </div>
             </div>
-            <div class="p-3 flex-1 overflow-y-auto">
+            <div class="p-3 flex-1 overflow-y-auto scrollbar-thin scrollbar-thumb-rounded scrollbar-thumb-gray-400 scrollbar-track-gray-100">
                 <article class="mt-2  px-10 pt-6 pb-8 bg-white rounded-lg shadow">
                     <div class="flex items-center justify-between">
                         <p class="text-lg font-semibold">
